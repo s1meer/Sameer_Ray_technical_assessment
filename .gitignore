@@ -1,0 +1,14 @@
+node_modules/
+build/
+dist/
+.env
+.env.local
+.env*.local
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+package-lock.json
+.cache/
+coverage/
+*.log

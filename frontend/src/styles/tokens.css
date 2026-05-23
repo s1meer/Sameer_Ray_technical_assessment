@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+:root {
+  --navy-500:#163A5C; --navy-600:#11304D;
+  --teal-400:#2E8E91; --teal-500:#1E7375;
+  --stone-50:#F6F7F9; --stone-100:#EDEFF3;
+  --fg-1:#0F172A; --fg-2:#475569; --fg-3:#94A3B8;
+  --border-1:#E2E8F0; --border-2:#CBD5E1;
+  --cat-io:#3B82F6; --cat-llm:#8B5CF6; --cat-data:#10B981; --cat-logic:#F59E0B;
+  --font-sans:'Inter',system-ui,sans-serif;
+  --font-mono:'IBM Plex Mono',monospace;
+  --radius-sm:6px; --radius-md:10px; --radius-lg:14px;
+  --shadow-sm:0 1px 3px rgba(0,0,0,0.08);
+  --shadow-md:0 4px 16px rgba(0,0,0,0.10);
+  --shadow-node:0 2px 8px rgba(0,0,0,0.08);
+  --vs-edge:var(--teal-400);
+}
